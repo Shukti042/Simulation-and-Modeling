@@ -1,0 +1,33 @@
+Total number of customers served : 432
+Maximum Queue Length : 5
+Average Queue length : 0.08625235876711539
+Maximum Delay : 67
+Average Delay : 44
+Maximum elevator time: 128
+Average elevator time: 53
+Maximum delivery time : 213
+Average delivery time : 80
+***** Elevator 1 *******
+Average load size : 4
+Operation Time : 1732
+Available Time : 8368
+Number of Maximum Loads : 0
+Number of stops : 49
+***** Elevator 2 *******
+Average load size : 4
+Operation Time : 2698
+Available Time : 7402
+Number of Maximum Loads : 0
+Number of stops : 83
+***** Elevator 3 *******
+Average load size : 4
+Operation Time : 3831
+Available Time : 6426
+Number of Maximum Loads : 1
+Number of stops : 106
+***** Elevator 4 *******
+Average load size : 5
+Operation Time : 4460
+Available Time : 5640
+Number of Maximum Loads : 0
+Number of stops : 141
